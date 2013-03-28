@@ -1,0 +1,1 @@
+The Dictionaries list in the AppleScript Editor can become cluttered with multiple entries. The duplicate entries are likely made whenever a program is updated. This workflow removes the extra ones with no harm to anything.
